@@ -26,3 +26,10 @@ $ java -jar target/geektrust.jar <path-to-input-file>
 example :
 ```
 $ java -jar target/geektrust.jar documents/testfiles/input.txt
+
+## Code Evaluation
+![img1](https://user-images.githubusercontent.com/65536492/134722660-58a94b1b-6743-46b3-a96e-255400cb5cb0.PNG)
+![img3](https://user-images.githubusercontent.com/65536492/134722689-b734fb14-b9c9-4a72-827b-156c61b0f4b2.PNG)
+
+![img4](https://user-images.githubusercontent.com/65536492/134722862-970e1bd5-52e3-492a-8b99-173b1adb6b4c.PNG)
+
